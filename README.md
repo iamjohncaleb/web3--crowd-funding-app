@@ -103,27 +103,25 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 👥 Contributing  
+## 🤝 Contributing
 
-1. Fork the repository.  
-2. Create a new feature branch.  
-3. Make changes and commit.  
-4. Submit a pull request.  
+Contributions are welcome! Here's how you can help:
+Let me know if you'd like adjustments or additional sections! 😊
 
----
-
-## 📜 License  
-
-This project is licensed under the **MIT License**.  
+1. Fork this repository.
+2. Create a branch for your feature or bug fix.
+3. Submit a pull request with a detailed description of your changes.
 
 ---
 
-## 📞 Contact  
-
-- **Author**: Daniella Obiagwuna  
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+### License
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Would you like to add any additional sections or details? 😊
+Let me know if you'd like to refine it further! 🚀
+- Name: Caleb John
+- Email: [My-email](mailto:johncaleb022@gmail.com)  
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/caleb-john-48a1bb29a)
+
+---
