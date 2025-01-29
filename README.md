@@ -1,6 +1,6 @@
 # Web3 Crowdfunding App  
 
-This is a **decentralized crowdfunding platform** built on **Ethereum (or any EVM-compatible blockchain)** using **Next.js, Hardhat, and Thirdweb**. The platform allows users to create and fund campaigns transparently on the blockchain, ensuring security and trust in crowdfunding.
+This is a **decentralized crowdfunding platform** built on Ethereum using **Next.js, Hardhat, and Thirdweb**. The platform allows users to create and fund campaigns transparently on the blockchain, ensuring security and trust in crowdfunding.
 
 ---
 
